@@ -13,3 +13,4 @@ trainmodel.py - trains the CNN model with the greyscale images
 
 detectface.py - detects the face and marks attendance if face is recognized.A csv file is created to store the attendance record
 
+Note: You need to have haarcascade_frontalface_default.xml file for using Haar Cascade to detect face
