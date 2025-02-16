@@ -13,7 +13,7 @@ This project implements a face recognition system using Convolutional Neural Net
 
 **detectface.py** - detects the face and marks attendance if face is recognized.A csv file is created to store the attendance record
 
-**Note:* You need to have haarcascade_frontalface_default.xml file for using Haar Cascade to detect face
+**Note:** You need to have haarcascade_frontalface_default.xml file for using Haar Cascade to detect face
 ## - **Python libraries used**
 
 - **OpenCV-python**
