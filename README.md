@@ -1,4 +1,4 @@
-# Face-Recognition-Using-CNN
+# Face-Recognition-Attendance-System-Using-CNN
 This project implements a face recognition system using Convolutional Neural Networks (CNNs) without a frontend interface. It is structured with multiple Python files, each handling different aspects of the pipeline.
 
 **Project Structure:**
